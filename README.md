@@ -211,7 +211,7 @@ These represent real-world physical properties (e.g., Strength, Elasticity) maki
 ## 👩‍💻 Author
 
 **Michelle Alzola**
-📫 [www.michellealzoladesign.com](https://www.michellealzoladesign.com)
+📫 [www.python.michellealzoladesign.com](https://www.python.michellealzoladesign.com)
 💻 [GitHub Portfolio](https://github.com/michellealzola)
 🧠 Focus: Python · Pandas · AI in Energy · Engineering Dashboards
 
