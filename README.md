@@ -1,5 +1,3 @@
----
-
 ````markdown
 # 🧮 Pandas Arithmetic, Data Alignment, and Function Mapping
 
