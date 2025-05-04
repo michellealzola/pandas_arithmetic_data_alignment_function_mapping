@@ -183,7 +183,7 @@ df['material_type'] = df.apply(get_material_type, axis=1)
 
 ## 📁 Repository Contents
 
-* `pandas_arithmetic_data_alignment_function_mapping.ipynb` — Complete Jupyter notebook with all 13 problems and outputs
+* `pandas_arithmetic_data_alignment_function_mapping.ipynb` — Complete Jupyter notebook with all 25+ problems and outputs
 * `README.md` — This file
 
 ---
