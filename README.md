@@ -217,7 +217,6 @@ These represent real-world physical properties (e.g., Strength, Elasticity) maki
 
 This project is open-source and available under the [MIT License](LICENSE).
 
-```
 
 
 ```
