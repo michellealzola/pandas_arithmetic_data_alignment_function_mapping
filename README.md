@@ -1,4 +1,4 @@
-````markdown
+````
 # 🧮 Pandas Arithmetic, Data Alignment, and Function Mapping
 
 This project contains a comprehensive collection of **25+ solved problems** using `pandas` that demonstrate:
